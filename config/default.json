@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://mongo:Lva7PJ6YzcZ2soY3@deveconnector.aqjxa.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"azertyui",
+    "github_client_id":"6d01f542a3bfb83fd64a",
+    "github_secret":"0f66abd44d580f143b6cdc8cb3d0baaff31df017"
+}
